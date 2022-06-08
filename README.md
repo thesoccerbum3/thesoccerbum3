@@ -1,4 +1,4 @@
-### Hi there 👋
+### I can divide by zero :bowtie:
 
 <!--
 **thesoccerbum3/thesoccerbum3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
